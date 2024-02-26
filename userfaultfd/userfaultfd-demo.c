@@ -128,7 +128,7 @@ main(int argc, char *argv[])
 
     // Wait to get the PID
 
-    getchar();
+    // getchar();
 
     if (argc != 2) {
         fprintf(stderr, "Usage: %s num-pages\n", argv[0]);
