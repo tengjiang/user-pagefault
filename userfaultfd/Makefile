@@ -1,20 +1,19 @@
 CC := gcc
-CFLAGS := -Wall -Wextra -std=c11
+CFLAGS := -Wall -Wextra -std=c11 -fno-omit-frame-pointer
 LDFLAGS := -pthread
 
-TARGET := userfaultfd-demo
-SRC := userfaultfd-demo.c
-OBJ := $(SRC:.c=.o)
+TARGETS := userfaultfd-demo userfaultfd-kernelfault
+SRCS := userfaultfd-demo.c userfaultfd-kernelfault.c
 
 .PHONY: all clean
 
-all: $(TARGET)
+all: $(TARGETS)
 
-$(TARGET): $(OBJ)
-	$(CC) $(CFLAGS) $(LDFLAGS) -o $@ $^
+userfaultfd-demo: userfaultfd-demo.c
+	$(CC) $(CFLAGS) $(LDFLAGS) -o $@ $<
 
-%.o: %.c
-	$(CC) $(CFLAGS) -c -o $@ $<
+userfaultfd-kernelfault: userfaultfd-kernelfault.c
+	$(CC) $(CFLAGS) $(LDFLAGS) -o $@ $<
 
 clean:
-	rm -f $(TARGET) $(OBJ)
+	rm -f $(TARGETS)

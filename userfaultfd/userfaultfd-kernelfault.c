@@ -1,7 +1,3 @@
-/* userfaultfd_demo.c
-
-    Licensed under the GNU General Public License version 2 or later.
-*/
 #define _GNU_SOURCE
 #include <sys/types.h>
 #include <stdio.h>
@@ -18,11 +14,14 @@
 #include <sys/syscall.h>
 #include <sys/ioctl.h>
 #include <poll.h>
+#include <time.h>
+
 
 #define errExit(msg)    do { perror(msg); exit(EXIT_FAILURE); \
                         } while (0)
 
 static int page_size;
+static char *des_page = NULL; // A global page to be copied into the faulting page
 
 static void *
 fault_handler_thread(void *arg)
@@ -30,20 +29,10 @@ fault_handler_thread(void *arg)
     static struct uffd_msg msg;   /* Data read from userfaultfd */
     static int fault_cnt = 0;     /* Number of faults so far handled */
     long uffd;                    /* userfaultfd file descriptor */
-    static char *page = NULL;
     struct uffdio_copy uffdio_copy;
     ssize_t nread;
 
     uffd = (long) arg;
-
-    /* Create a page that will be copied into the faulting region */
-
-    if (page == NULL) {
-        page = mmap(NULL, page_size, PROT_READ | PROT_WRITE,
-                    MAP_PRIVATE | MAP_ANONYMOUS, -1, 0);
-        if (page == MAP_FAILED)
-            errExit("mmap");
-    }
 
     /* Loop, handling incoming events on the userfaultfd
         file descriptor */
@@ -60,11 +49,11 @@ fault_handler_thread(void *arg)
         if (nready == -1)
             errExit("poll");
 
-        printf("\nfault_handler_thread():\n");
-        printf("    poll() returns: nready = %d; "
-                "POLLIN = %d; POLLERR = %d\n", nready,
-                (pollfd.revents & POLLIN) != 0,
-                (pollfd.revents & POLLERR) != 0);
+        // printf("\nfault_handler_thread():\n");
+        // printf("    poll() returns: nready = %d; "
+        //         "POLLIN = %d; POLLERR = %d\n", nready,
+        //         (pollfd.revents & POLLIN) != 0,
+        //         (pollfd.revents & POLLERR) != 0);
 
         /* Read an event from the userfaultfd */
 
@@ -86,19 +75,18 @@ fault_handler_thread(void *arg)
 
         /* Display info about the page-fault event */
 
-        printf("    UFFD_EVENT_PAGEFAULT event: ");
-        printf("flags = %llx; ", msg.arg.pagefault.flags);
-        printf("address = %llx\n", msg.arg.pagefault.address);
+        // printf("    UFFD_EVENT_PAGEFAULT event: ");
+        // printf("flags = %llx; ", msg.arg.pagefault.flags);
+        // printf("address = %llx\n", msg.arg.pagefault.address);
 
         /* Copy the page pointed to by 'page' into the faulting
             region. Vary the contents that are copied in, so that it
             is more obvious that each fault is handled separately. */
 
-        memset(page, 'A' + fault_cnt % 20, page_size);
+        memset(des_page, 'A' + fault_cnt % 20, page_size); // Simulate process overhead
         fault_cnt++;
-        usleep(100000);         /* Slow things down a little */
 
-        uffdio_copy.src = (unsigned long) page;
+        uffdio_copy.src = (unsigned long) des_page;
 
         /* We need to handle page faults in units of pages(!).
             So, round faulting address down to page boundary */
@@ -111,24 +99,30 @@ fault_handler_thread(void *arg)
         if (ioctl(uffd, UFFDIO_COPY, &uffdio_copy) == -1)
             errExit("ioctl-UFFDIO_COPY");
 
-        printf("        (uffdio_copy.copy returned %lld)\n",
-                uffdio_copy.copy);
+        // printf("        (uffdio_copy.copy returned %lld)\n",
+        //         uffdio_copy.copy);
     }
 }
 
 int
 main(int argc, char *argv[])
 {
+    clock_t start, end;
     long uffd;          /* userfaultfd file descriptor */
     char *addr;         /* Start of region handled by userfaultfd */
     unsigned long len;  /* Length of region handled by userfaultfd */
     pthread_t thr;      /* ID of thread that handles page faults */
     struct uffdio_api uffdio_api;
     struct uffdio_register uffdio_register;
-    int s;
+    int s; // for pthread_create
+    char *raw_pg_addr; // Without using using userfaultfd
+    double cpu_time_used;
+    int fault_cnt; // bookkeeping for raw pagefault
 
-    // Wait to get the PID
+    // Get the PID
+    printf("fault_handler_thread tgid and pid: %d\n", getpid());
 
+    // Wait
     // getchar();
 
     if (argc != 2) {
@@ -137,7 +131,20 @@ main(int argc, char *argv[])
     }
 
     page_size = sysconf(_SC_PAGE_SIZE);
+    printf("page size: %d\n", page_size);
     len = strtoul(argv[1], NULL, 0) * page_size;
+
+    /* Create a page that will be copied into the faulting region */
+
+    if (des_page == NULL) {
+        des_page = mmap(NULL, page_size, PROT_READ | PROT_WRITE,
+                    MAP_PRIVATE | MAP_ANONYMOUS, -1, 0);
+        if (des_page == MAP_FAILED)
+            errExit("mmap");
+    }
+
+    // Initialize the allocated memory to zeros
+    memset(des_page, 0, page_size);
 
     /* Create and enable userfaultfd object */
 
@@ -158,6 +165,11 @@ main(int argc, char *argv[])
     addr = mmap(NULL, len, PROT_READ | PROT_WRITE,
                 MAP_PRIVATE | MAP_ANONYMOUS, -1, 0);
     if (addr == MAP_FAILED)
+        errExit("mmap");
+    
+    raw_pg_addr = mmap(NULL, len, PROT_READ | PROT_WRITE,
+                MAP_PRIVATE | MAP_ANONYMOUS, -1, 0);
+    if (raw_pg_addr == MAP_FAILED)
         errExit("mmap");
 
     printf("Address returned by mmap() = %p\n", addr);
@@ -184,16 +196,44 @@ main(int argc, char *argv[])
         locations 1024 bytes apart. This will trigger userfaultfd
         events for all pages in the region. */
 
+    
     unsigned long int l;
     l = 0xf;    /* Ensure that faulting address is not on a page
                     boundary, in order to test that we correctly
                     handle that case in fault_handling_thread() */
+    start = clock();
+
     while (l < len) {
         char c = addr[l];
-        printf("Read address %p in main(): ", addr + l);
-        printf("%c\n", c);
-        l += 1024;
+        // printf("Read address %p in main(): ", addr + l);
+        // printf("%c\n", c);
+        l += 4096;
+        // usleep(100000);         /* Slow things down a little */
     }
+
+    end = clock();
+    cpu_time_used = ((double) (end - start)) / CLOCKS_PER_SEC;
+    printf("Time taken userfaultfd():  %f seconds\n", cpu_time_used);
+
+
+    l = 0xf;
+    fault_cnt = 0;
+    // memset(des_page, 0, page_size);
+
+    start = clock();
+    while (l < len) {
+        memset(raw_pg_addr + fault_cnt * page_size, 'A' + fault_cnt % 20, page_size);
+        // printf("%p\n", raw_pg_addr + fault_cnt * page_size);
+        fault_cnt++;
+        char c = raw_pg_addr[l];
+        // printf("Read address %p in main(): ", raw_pg_addr + l);
+        // printf("%c\n", c);
+        l += 4096;
+        // usleep(100000);         /* Slow things down a little */
+    }
+    end = clock();
+    cpu_time_used = ((double) (end - start)) / CLOCKS_PER_SEC;
+    printf("Time taken raw page fault:  %f seconds\n", cpu_time_used);
 
     exit(EXIT_SUCCESS);
 }
