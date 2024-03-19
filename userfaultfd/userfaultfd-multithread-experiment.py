@@ -8,11 +8,11 @@ import os
 
 # Function to run the experiment and return execution times
 def run_experiment(num_threads):
-    output = subprocess.check_output(['sudo', './userfaultfd-multithread', '100', str(num_threads)], stderr=subprocess.STDOUT, text=True)
+    output = subprocess.check_output(['sudo', './userfaultfd-multithread', '50', str(num_threads)], stderr=subprocess.STDOUT, text=True)
     return output
 
 # Constants
-thread_nums = [1, 2, 4, 8, 16, 32, 64, 128, 256]
+thread_nums = [1, 2, 4, 8, 16, 32, 64, 128, 192, 256, 320 ,384, 448, 512]
 N = 50  # Number of times to run each command
 
 # Create results directory if it doesn't exist

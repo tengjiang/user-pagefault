@@ -1,0 +1,42 @@
+1 faulting threads: Average time = 0.00159372 seconds
+Raw page fault: Average time = 0.00026632 seconds
+
+2 faulting threads: Average time = 0.0025329600000000003 seconds
+Raw page fault: Average time = 0.00054498 seconds
+
+4 faulting threads: Average time = 0.00436862 seconds
+Raw page fault: Average time = 0.0011964199999999997 seconds
+
+8 faulting threads: Average time = 0.008449940000000003 seconds
+Raw page fault: Average time = 0.0028700200000000005 seconds
+
+16 faulting threads: Average time = 0.01626648 seconds
+Raw page fault: Average time = 0.006196320000000001 seconds
+
+32 faulting threads: Average time = 0.03219059999999999 seconds
+Raw page fault: Average time = 0.01190236 seconds
+
+64 faulting threads: Average time = 0.06281622 seconds
+Raw page fault: Average time = 0.023883679999999994 seconds
+
+128 faulting threads: Average time = 0.13460098 seconds
+Raw page fault: Average time = 0.04729966000000001 seconds
+
+192 faulting threads: Average time = 0.22005996000000003 seconds
+Raw page fault: Average time = 0.06904068000000001 seconds
+
+256 faulting threads: Average time = 0.32985544 seconds
+Raw page fault: Average time = 0.08903738000000003 seconds
+
+320 faulting threads: Average time = 0.5289510000000001 seconds
+Raw page fault: Average time = 0.10940383999999997 seconds
+
+384 faulting threads: Average time = 0.85250518 seconds
+Raw page fault: Average time = 0.12952147999999997 seconds
+
+448 faulting threads: Average time = 1.2737405199999996 seconds
+Raw page fault: Average time = 0.15087426 seconds
+
+512 faulting threads: Average time = 1.7274813800000002 seconds
+Raw page fault: Average time = 0.16985244000000002 seconds
+

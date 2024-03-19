@@ -1,0 +1,2800 @@
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001852 seconds
+Time taken with raw page fault:  0.000308 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001929 seconds
+Time taken with raw page fault:  0.000308 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001774 seconds
+Time taken with raw page fault:  0.000269 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001759 seconds
+Time taken with raw page fault:  0.000299 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001621 seconds
+Time taken with raw page fault:  0.000305 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001553 seconds
+Time taken with raw page fault:  0.000286 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001496 seconds
+Time taken with raw page fault:  0.000186 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001740 seconds
+Time taken with raw page fault:  0.000310 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001677 seconds
+Time taken with raw page fault:  0.000152 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001564 seconds
+Time taken with raw page fault:  0.000268 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001434 seconds
+Time taken with raw page fault:  0.000305 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001767 seconds
+Time taken with raw page fault:  0.000244 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001740 seconds
+Time taken with raw page fault:  0.000305 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001018 seconds
+Time taken with raw page fault:  0.000251 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001449 seconds
+Time taken with raw page fault:  0.000267 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001652 seconds
+Time taken with raw page fault:  0.000283 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001689 seconds
+Time taken with raw page fault:  0.000248 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001676 seconds
+Time taken with raw page fault:  0.000276 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001474 seconds
+Time taken with raw page fault:  0.000263 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001616 seconds
+Time taken with raw page fault:  0.000297 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001399 seconds
+Time taken with raw page fault:  0.000247 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001679 seconds
+Time taken with raw page fault:  0.000291 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001153 seconds
+Time taken with raw page fault:  0.000170 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001700 seconds
+Time taken with raw page fault:  0.000311 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001293 seconds
+Time taken with raw page fault:  0.000245 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001696 seconds
+Time taken with raw page fault:  0.000281 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001426 seconds
+Time taken with raw page fault:  0.000239 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001708 seconds
+Time taken with raw page fault:  0.000299 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001697 seconds
+Time taken with raw page fault:  0.000168 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001642 seconds
+Time taken with raw page fault:  0.000282 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001214 seconds
+Time taken with raw page fault:  0.000279 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001713 seconds
+Time taken with raw page fault:  0.000269 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001631 seconds
+Time taken with raw page fault:  0.000270 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001671 seconds
+Time taken with raw page fault:  0.000257 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001677 seconds
+Time taken with raw page fault:  0.000288 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001522 seconds
+Time taken with raw page fault:  0.000291 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001474 seconds
+Time taken with raw page fault:  0.000269 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001780 seconds
+Time taken with raw page fault:  0.000271 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001725 seconds
+Time taken with raw page fault:  0.000254 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001664 seconds
+Time taken with raw page fault:  0.000228 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001576 seconds
+Time taken with raw page fault:  0.000328 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001317 seconds
+Time taken with raw page fault:  0.000214 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001717 seconds
+Time taken with raw page fault:  0.000253 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001689 seconds
+Time taken with raw page fault:  0.000272 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001533 seconds
+Time taken with raw page fault:  0.000218 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001685 seconds
+Time taken with raw page fault:  0.000262 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001449 seconds
+Time taken with raw page fault:  0.000260 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001598 seconds
+Time taken with raw page fault:  0.000316 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001597 seconds
+Time taken with raw page fault:  0.000259 seconds
+
+1 faulting threads with each triggering 50 page faults 
+Time taken with 1 faulting thread:  0.001581 seconds
+Time taken with raw page fault:  0.000295 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002600 seconds
+Time taken with raw page fault:  0.000599 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002483 seconds
+Time taken with raw page fault:  0.000615 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002200 seconds
+Time taken with raw page fault:  0.000512 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002596 seconds
+Time taken with raw page fault:  0.000634 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002546 seconds
+Time taken with raw page fault:  0.000588 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002204 seconds
+Time taken with raw page fault:  0.000491 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002482 seconds
+Time taken with raw page fault:  0.000569 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002563 seconds
+Time taken with raw page fault:  0.000566 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002646 seconds
+Time taken with raw page fault:  0.000658 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002386 seconds
+Time taken with raw page fault:  0.000404 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002721 seconds
+Time taken with raw page fault:  0.000605 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002723 seconds
+Time taken with raw page fault:  0.000503 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002183 seconds
+Time taken with raw page fault:  0.000548 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002246 seconds
+Time taken with raw page fault:  0.000596 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002718 seconds
+Time taken with raw page fault:  0.000522 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002036 seconds
+Time taken with raw page fault:  0.000579 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002589 seconds
+Time taken with raw page fault:  0.000561 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002503 seconds
+Time taken with raw page fault:  0.000541 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002495 seconds
+Time taken with raw page fault:  0.000563 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002283 seconds
+Time taken with raw page fault:  0.000549 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002419 seconds
+Time taken with raw page fault:  0.000605 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002399 seconds
+Time taken with raw page fault:  0.000619 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002651 seconds
+Time taken with raw page fault:  0.000482 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002630 seconds
+Time taken with raw page fault:  0.000518 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002595 seconds
+Time taken with raw page fault:  0.000491 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002482 seconds
+Time taken with raw page fault:  0.000488 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002658 seconds
+Time taken with raw page fault:  0.000587 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002560 seconds
+Time taken with raw page fault:  0.000543 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002791 seconds
+Time taken with raw page fault:  0.000520 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002763 seconds
+Time taken with raw page fault:  0.000444 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002498 seconds
+Time taken with raw page fault:  0.000446 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002655 seconds
+Time taken with raw page fault:  0.000525 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002407 seconds
+Time taken with raw page fault:  0.000612 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002648 seconds
+Time taken with raw page fault:  0.000587 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002616 seconds
+Time taken with raw page fault:  0.000531 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002584 seconds
+Time taken with raw page fault:  0.000552 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002641 seconds
+Time taken with raw page fault:  0.000481 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002550 seconds
+Time taken with raw page fault:  0.000430 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002462 seconds
+Time taken with raw page fault:  0.000551 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002647 seconds
+Time taken with raw page fault:  0.000545 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002691 seconds
+Time taken with raw page fault:  0.000571 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002569 seconds
+Time taken with raw page fault:  0.000504 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002738 seconds
+Time taken with raw page fault:  0.000528 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002391 seconds
+Time taken with raw page fault:  0.000580 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002216 seconds
+Time taken with raw page fault:  0.000642 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002714 seconds
+Time taken with raw page fault:  0.000531 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002825 seconds
+Time taken with raw page fault:  0.000560 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002240 seconds
+Time taken with raw page fault:  0.000530 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002707 seconds
+Time taken with raw page fault:  0.000445 seconds
+
+2 faulting threads with each triggering 50 page faults 
+Time taken with 2 faulting thread:  0.002698 seconds
+Time taken with raw page fault:  0.000598 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004329 seconds
+Time taken with raw page fault:  0.001105 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004612 seconds
+Time taken with raw page fault:  0.001067 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.003975 seconds
+Time taken with raw page fault:  0.001049 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004608 seconds
+Time taken with raw page fault:  0.001159 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004494 seconds
+Time taken with raw page fault:  0.001335 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004380 seconds
+Time taken with raw page fault:  0.001301 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004295 seconds
+Time taken with raw page fault:  0.001323 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004579 seconds
+Time taken with raw page fault:  0.001235 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004636 seconds
+Time taken with raw page fault:  0.001369 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004629 seconds
+Time taken with raw page fault:  0.001008 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004304 seconds
+Time taken with raw page fault:  0.001326 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004393 seconds
+Time taken with raw page fault:  0.001243 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004404 seconds
+Time taken with raw page fault:  0.001076 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004318 seconds
+Time taken with raw page fault:  0.001337 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004586 seconds
+Time taken with raw page fault:  0.001205 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004892 seconds
+Time taken with raw page fault:  0.001171 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004472 seconds
+Time taken with raw page fault:  0.001221 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.003611 seconds
+Time taken with raw page fault:  0.001200 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004305 seconds
+Time taken with raw page fault:  0.001225 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004658 seconds
+Time taken with raw page fault:  0.001163 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004226 seconds
+Time taken with raw page fault:  0.001238 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004054 seconds
+Time taken with raw page fault:  0.001114 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004398 seconds
+Time taken with raw page fault:  0.001186 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004298 seconds
+Time taken with raw page fault:  0.001284 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.003862 seconds
+Time taken with raw page fault:  0.001272 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004300 seconds
+Time taken with raw page fault:  0.001188 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004013 seconds
+Time taken with raw page fault:  0.001121 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004455 seconds
+Time taken with raw page fault:  0.001124 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.003956 seconds
+Time taken with raw page fault:  0.001303 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004493 seconds
+Time taken with raw page fault:  0.001134 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004040 seconds
+Time taken with raw page fault:  0.001218 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004443 seconds
+Time taken with raw page fault:  0.001004 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004558 seconds
+Time taken with raw page fault:  0.001215 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004641 seconds
+Time taken with raw page fault:  0.001207 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004139 seconds
+Time taken with raw page fault:  0.001276 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004707 seconds
+Time taken with raw page fault:  0.001217 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004387 seconds
+Time taken with raw page fault:  0.001251 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004232 seconds
+Time taken with raw page fault:  0.001220 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004427 seconds
+Time taken with raw page fault:  0.001035 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004439 seconds
+Time taken with raw page fault:  0.001165 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004495 seconds
+Time taken with raw page fault:  0.001255 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004312 seconds
+Time taken with raw page fault:  0.001242 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004145 seconds
+Time taken with raw page fault:  0.001254 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004319 seconds
+Time taken with raw page fault:  0.001103 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004646 seconds
+Time taken with raw page fault:  0.001184 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004408 seconds
+Time taken with raw page fault:  0.001232 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004350 seconds
+Time taken with raw page fault:  0.001172 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004137 seconds
+Time taken with raw page fault:  0.001150 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004461 seconds
+Time taken with raw page fault:  0.001249 seconds
+
+4 faulting threads with each triggering 50 page faults 
+Time taken with 4 faulting thread:  0.004610 seconds
+Time taken with raw page fault:  0.001090 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.007219 seconds
+Time taken with raw page fault:  0.002368 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.008722 seconds
+Time taken with raw page fault:  0.002846 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.008657 seconds
+Time taken with raw page fault:  0.002759 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.008331 seconds
+Time taken with raw page fault:  0.002924 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.009083 seconds
+Time taken with raw page fault:  0.002824 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.008204 seconds
+Time taken with raw page fault:  0.003046 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.008475 seconds
+Time taken with raw page fault:  0.002865 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.009015 seconds
+Time taken with raw page fault:  0.002220 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.007792 seconds
+Time taken with raw page fault:  0.002634 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.008191 seconds
+Time taken with raw page fault:  0.003075 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.008800 seconds
+Time taken with raw page fault:  0.002963 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.007888 seconds
+Time taken with raw page fault:  0.003075 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.007573 seconds
+Time taken with raw page fault:  0.002468 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.007914 seconds
+Time taken with raw page fault:  0.002820 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.008246 seconds
+Time taken with raw page fault:  0.002625 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.008611 seconds
+Time taken with raw page fault:  0.003255 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.008476 seconds
+Time taken with raw page fault:  0.002769 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.008344 seconds
+Time taken with raw page fault:  0.003122 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.008712 seconds
+Time taken with raw page fault:  0.002726 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.008307 seconds
+Time taken with raw page fault:  0.002373 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.008733 seconds
+Time taken with raw page fault:  0.002323 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.008497 seconds
+Time taken with raw page fault:  0.002907 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.008662 seconds
+Time taken with raw page fault:  0.003090 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.008021 seconds
+Time taken with raw page fault:  0.001907 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.007947 seconds
+Time taken with raw page fault:  0.002731 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.007447 seconds
+Time taken with raw page fault:  0.002873 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.008612 seconds
+Time taken with raw page fault:  0.002859 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.007995 seconds
+Time taken with raw page fault:  0.002716 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.007349 seconds
+Time taken with raw page fault:  0.003233 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.008944 seconds
+Time taken with raw page fault:  0.002760 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.007667 seconds
+Time taken with raw page fault:  0.002911 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.008000 seconds
+Time taken with raw page fault:  0.003061 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.008042 seconds
+Time taken with raw page fault:  0.003111 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.008909 seconds
+Time taken with raw page fault:  0.003113 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.010534 seconds
+Time taken with raw page fault:  0.003865 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.009681 seconds
+Time taken with raw page fault:  0.003307 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.009183 seconds
+Time taken with raw page fault:  0.003546 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.008913 seconds
+Time taken with raw page fault:  0.002984 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.008651 seconds
+Time taken with raw page fault:  0.002907 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.007822 seconds
+Time taken with raw page fault:  0.003176 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.008755 seconds
+Time taken with raw page fault:  0.002875 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.009007 seconds
+Time taken with raw page fault:  0.003065 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.009259 seconds
+Time taken with raw page fault:  0.003219 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.009021 seconds
+Time taken with raw page fault:  0.002751 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.007195 seconds
+Time taken with raw page fault:  0.002281 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.008213 seconds
+Time taken with raw page fault:  0.002395 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.008762 seconds
+Time taken with raw page fault:  0.002870 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.009019 seconds
+Time taken with raw page fault:  0.002969 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.008726 seconds
+Time taken with raw page fault:  0.002843 seconds
+
+8 faulting threads with each triggering 50 page faults 
+Time taken with 8 faulting thread:  0.008371 seconds
+Time taken with raw page fault:  0.003096 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.017461 seconds
+Time taken with raw page fault:  0.006393 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.014784 seconds
+Time taken with raw page fault:  0.006397 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.016874 seconds
+Time taken with raw page fault:  0.005630 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.015703 seconds
+Time taken with raw page fault:  0.006083 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.016155 seconds
+Time taken with raw page fault:  0.006216 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.016343 seconds
+Time taken with raw page fault:  0.006332 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.016666 seconds
+Time taken with raw page fault:  0.006029 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.016942 seconds
+Time taken with raw page fault:  0.006418 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.016080 seconds
+Time taken with raw page fault:  0.005917 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.016707 seconds
+Time taken with raw page fault:  0.006206 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.016435 seconds
+Time taken with raw page fault:  0.006570 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.015264 seconds
+Time taken with raw page fault:  0.006664 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.014321 seconds
+Time taken with raw page fault:  0.005667 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.016066 seconds
+Time taken with raw page fault:  0.006738 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.016258 seconds
+Time taken with raw page fault:  0.006825 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.016748 seconds
+Time taken with raw page fault:  0.005860 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.015705 seconds
+Time taken with raw page fault:  0.006615 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.016339 seconds
+Time taken with raw page fault:  0.006115 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.016411 seconds
+Time taken with raw page fault:  0.006002 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.017678 seconds
+Time taken with raw page fault:  0.005853 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.016407 seconds
+Time taken with raw page fault:  0.006108 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.016879 seconds
+Time taken with raw page fault:  0.006299 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.016213 seconds
+Time taken with raw page fault:  0.005908 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.016228 seconds
+Time taken with raw page fault:  0.006090 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.017163 seconds
+Time taken with raw page fault:  0.006060 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.016714 seconds
+Time taken with raw page fault:  0.006725 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.015883 seconds
+Time taken with raw page fault:  0.005788 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.015449 seconds
+Time taken with raw page fault:  0.005979 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.016707 seconds
+Time taken with raw page fault:  0.006030 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.017317 seconds
+Time taken with raw page fault:  0.005579 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.016703 seconds
+Time taken with raw page fault:  0.007003 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.017519 seconds
+Time taken with raw page fault:  0.006684 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.016680 seconds
+Time taken with raw page fault:  0.006635 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.015772 seconds
+Time taken with raw page fault:  0.006257 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.015863 seconds
+Time taken with raw page fault:  0.006047 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.016042 seconds
+Time taken with raw page fault:  0.006028 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.016324 seconds
+Time taken with raw page fault:  0.005576 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.016547 seconds
+Time taken with raw page fault:  0.006560 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.016065 seconds
+Time taken with raw page fault:  0.006560 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.015599 seconds
+Time taken with raw page fault:  0.006278 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.015695 seconds
+Time taken with raw page fault:  0.006701 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.015155 seconds
+Time taken with raw page fault:  0.005875 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.016637 seconds
+Time taken with raw page fault:  0.006337 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.014999 seconds
+Time taken with raw page fault:  0.006170 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.016532 seconds
+Time taken with raw page fault:  0.005227 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.016268 seconds
+Time taken with raw page fault:  0.006519 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.016709 seconds
+Time taken with raw page fault:  0.006144 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.015533 seconds
+Time taken with raw page fault:  0.005755 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.015951 seconds
+Time taken with raw page fault:  0.006268 seconds
+
+16 faulting threads with each triggering 50 page faults 
+Time taken with 16 faulting thread:  0.016831 seconds
+Time taken with raw page fault:  0.006096 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.031944 seconds
+Time taken with raw page fault:  0.013605 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.031219 seconds
+Time taken with raw page fault:  0.012237 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.037240 seconds
+Time taken with raw page fault:  0.013022 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.032854 seconds
+Time taken with raw page fault:  0.012083 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.032292 seconds
+Time taken with raw page fault:  0.012910 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.034105 seconds
+Time taken with raw page fault:  0.011904 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.030447 seconds
+Time taken with raw page fault:  0.011703 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.032697 seconds
+Time taken with raw page fault:  0.011758 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.032267 seconds
+Time taken with raw page fault:  0.012566 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.029557 seconds
+Time taken with raw page fault:  0.011565 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.032796 seconds
+Time taken with raw page fault:  0.011924 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.031334 seconds
+Time taken with raw page fault:  0.012296 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.032897 seconds
+Time taken with raw page fault:  0.012352 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.030169 seconds
+Time taken with raw page fault:  0.011695 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.033572 seconds
+Time taken with raw page fault:  0.011621 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.032092 seconds
+Time taken with raw page fault:  0.011999 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.032241 seconds
+Time taken with raw page fault:  0.012382 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.029970 seconds
+Time taken with raw page fault:  0.011549 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.029077 seconds
+Time taken with raw page fault:  0.012023 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.032373 seconds
+Time taken with raw page fault:  0.011053 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.030403 seconds
+Time taken with raw page fault:  0.011402 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.031334 seconds
+Time taken with raw page fault:  0.012294 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.031140 seconds
+Time taken with raw page fault:  0.011824 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.030363 seconds
+Time taken with raw page fault:  0.011480 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.034219 seconds
+Time taken with raw page fault:  0.011591 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.032990 seconds
+Time taken with raw page fault:  0.012019 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.031833 seconds
+Time taken with raw page fault:  0.011416 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.032858 seconds
+Time taken with raw page fault:  0.011556 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.032039 seconds
+Time taken with raw page fault:  0.010522 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.030717 seconds
+Time taken with raw page fault:  0.011793 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.030903 seconds
+Time taken with raw page fault:  0.011012 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.032447 seconds
+Time taken with raw page fault:  0.011608 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.031420 seconds
+Time taken with raw page fault:  0.011629 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.034487 seconds
+Time taken with raw page fault:  0.011963 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.030671 seconds
+Time taken with raw page fault:  0.011893 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.031409 seconds
+Time taken with raw page fault:  0.012237 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.034616 seconds
+Time taken with raw page fault:  0.011618 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.030046 seconds
+Time taken with raw page fault:  0.011148 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.033048 seconds
+Time taken with raw page fault:  0.012253 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.033995 seconds
+Time taken with raw page fault:  0.011385 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.030905 seconds
+Time taken with raw page fault:  0.011411 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.033290 seconds
+Time taken with raw page fault:  0.012137 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.034293 seconds
+Time taken with raw page fault:  0.012199 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.035504 seconds
+Time taken with raw page fault:  0.012475 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.033069 seconds
+Time taken with raw page fault:  0.012804 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.031494 seconds
+Time taken with raw page fault:  0.012474 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.030972 seconds
+Time taken with raw page fault:  0.011949 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.032963 seconds
+Time taken with raw page fault:  0.011790 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.033276 seconds
+Time taken with raw page fault:  0.011603 seconds
+
+32 faulting threads with each triggering 50 page faults 
+Time taken with 32 faulting thread:  0.031683 seconds
+Time taken with raw page fault:  0.011386 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.062105 seconds
+Time taken with raw page fault:  0.025541 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.064783 seconds
+Time taken with raw page fault:  0.024026 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.061329 seconds
+Time taken with raw page fault:  0.024155 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.063711 seconds
+Time taken with raw page fault:  0.022630 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.065547 seconds
+Time taken with raw page fault:  0.023525 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.063121 seconds
+Time taken with raw page fault:  0.024275 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.061310 seconds
+Time taken with raw page fault:  0.024138 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.061586 seconds
+Time taken with raw page fault:  0.023198 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.060416 seconds
+Time taken with raw page fault:  0.023591 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.062608 seconds
+Time taken with raw page fault:  0.022678 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.058957 seconds
+Time taken with raw page fault:  0.023808 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.062599 seconds
+Time taken with raw page fault:  0.023145 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.063331 seconds
+Time taken with raw page fault:  0.022539 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.068893 seconds
+Time taken with raw page fault:  0.024852 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.061759 seconds
+Time taken with raw page fault:  0.023643 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.061300 seconds
+Time taken with raw page fault:  0.023440 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.063983 seconds
+Time taken with raw page fault:  0.023846 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.060047 seconds
+Time taken with raw page fault:  0.023668 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.062989 seconds
+Time taken with raw page fault:  0.024385 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.062460 seconds
+Time taken with raw page fault:  0.023694 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.058846 seconds
+Time taken with raw page fault:  0.026650 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.062376 seconds
+Time taken with raw page fault:  0.021867 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.061778 seconds
+Time taken with raw page fault:  0.023594 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.060181 seconds
+Time taken with raw page fault:  0.022766 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.063383 seconds
+Time taken with raw page fault:  0.024132 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.062667 seconds
+Time taken with raw page fault:  0.023287 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.062022 seconds
+Time taken with raw page fault:  0.024014 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.063148 seconds
+Time taken with raw page fault:  0.022817 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.061257 seconds
+Time taken with raw page fault:  0.022982 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.063905 seconds
+Time taken with raw page fault:  0.024967 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.063905 seconds
+Time taken with raw page fault:  0.024274 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.062131 seconds
+Time taken with raw page fault:  0.022665 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.069353 seconds
+Time taken with raw page fault:  0.024232 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.063336 seconds
+Time taken with raw page fault:  0.023138 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.060373 seconds
+Time taken with raw page fault:  0.023698 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.062852 seconds
+Time taken with raw page fault:  0.022801 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.059585 seconds
+Time taken with raw page fault:  0.021726 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.061021 seconds
+Time taken with raw page fault:  0.024689 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.064465 seconds
+Time taken with raw page fault:  0.029221 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.065112 seconds
+Time taken with raw page fault:  0.025722 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.060544 seconds
+Time taken with raw page fault:  0.023905 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.067799 seconds
+Time taken with raw page fault:  0.024400 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.060092 seconds
+Time taken with raw page fault:  0.024163 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.062698 seconds
+Time taken with raw page fault:  0.025409 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.065656 seconds
+Time taken with raw page fault:  0.024319 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.063206 seconds
+Time taken with raw page fault:  0.023913 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.062481 seconds
+Time taken with raw page fault:  0.023210 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.065692 seconds
+Time taken with raw page fault:  0.023295 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.066793 seconds
+Time taken with raw page fault:  0.023383 seconds
+
+64 faulting threads with each triggering 50 page faults 
+Time taken with 64 faulting thread:  0.061320 seconds
+Time taken with raw page fault:  0.024168 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.126398 seconds
+Time taken with raw page fault:  0.047486 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.128388 seconds
+Time taken with raw page fault:  0.047273 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.127117 seconds
+Time taken with raw page fault:  0.046423 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.144530 seconds
+Time taken with raw page fault:  0.046363 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.126354 seconds
+Time taken with raw page fault:  0.045475 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.126219 seconds
+Time taken with raw page fault:  0.046291 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.129812 seconds
+Time taken with raw page fault:  0.056372 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.137257 seconds
+Time taken with raw page fault:  0.048960 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.129920 seconds
+Time taken with raw page fault:  0.045193 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.150777 seconds
+Time taken with raw page fault:  0.048287 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.131339 seconds
+Time taken with raw page fault:  0.045763 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.129014 seconds
+Time taken with raw page fault:  0.046290 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.153869 seconds
+Time taken with raw page fault:  0.049899 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.138728 seconds
+Time taken with raw page fault:  0.045743 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.131218 seconds
+Time taken with raw page fault:  0.046265 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.132898 seconds
+Time taken with raw page fault:  0.046278 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.127106 seconds
+Time taken with raw page fault:  0.045257 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.133825 seconds
+Time taken with raw page fault:  0.044347 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.126109 seconds
+Time taken with raw page fault:  0.045300 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.132143 seconds
+Time taken with raw page fault:  0.046432 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.125051 seconds
+Time taken with raw page fault:  0.044761 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.128651 seconds
+Time taken with raw page fault:  0.044531 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.127441 seconds
+Time taken with raw page fault:  0.047011 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.129293 seconds
+Time taken with raw page fault:  0.057332 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.140233 seconds
+Time taken with raw page fault:  0.046774 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.145041 seconds
+Time taken with raw page fault:  0.048688 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.133929 seconds
+Time taken with raw page fault:  0.045534 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.123358 seconds
+Time taken with raw page fault:  0.048409 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.148719 seconds
+Time taken with raw page fault:  0.048758 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.145803 seconds
+Time taken with raw page fault:  0.046887 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.136697 seconds
+Time taken with raw page fault:  0.045857 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.142120 seconds
+Time taken with raw page fault:  0.048877 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.130778 seconds
+Time taken with raw page fault:  0.045711 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.128945 seconds
+Time taken with raw page fault:  0.048178 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.147965 seconds
+Time taken with raw page fault:  0.049066 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.133338 seconds
+Time taken with raw page fault:  0.045238 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.135299 seconds
+Time taken with raw page fault:  0.050113 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.131420 seconds
+Time taken with raw page fault:  0.047525 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.147102 seconds
+Time taken with raw page fault:  0.047698 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.140141 seconds
+Time taken with raw page fault:  0.046631 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.146174 seconds
+Time taken with raw page fault:  0.049294 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.145118 seconds
+Time taken with raw page fault:  0.048469 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.131226 seconds
+Time taken with raw page fault:  0.046919 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.127594 seconds
+Time taken with raw page fault:  0.046245 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.140430 seconds
+Time taken with raw page fault:  0.046843 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.145416 seconds
+Time taken with raw page fault:  0.047695 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.129643 seconds
+Time taken with raw page fault:  0.045834 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.126425 seconds
+Time taken with raw page fault:  0.047483 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.130529 seconds
+Time taken with raw page fault:  0.046064 seconds
+
+128 faulting threads with each triggering 50 page faults 
+Time taken with 128 faulting thread:  0.123149 seconds
+Time taken with raw page fault:  0.046861 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.226774 seconds
+Time taken with raw page fault:  0.069182 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.208482 seconds
+Time taken with raw page fault:  0.068280 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.215063 seconds
+Time taken with raw page fault:  0.067094 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.207316 seconds
+Time taken with raw page fault:  0.064301 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.246249 seconds
+Time taken with raw page fault:  0.072710 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.213117 seconds
+Time taken with raw page fault:  0.067929 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.218176 seconds
+Time taken with raw page fault:  0.076311 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.234572 seconds
+Time taken with raw page fault:  0.067115 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.230976 seconds
+Time taken with raw page fault:  0.068947 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.203931 seconds
+Time taken with raw page fault:  0.068016 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.224835 seconds
+Time taken with raw page fault:  0.067084 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.204194 seconds
+Time taken with raw page fault:  0.068607 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.208885 seconds
+Time taken with raw page fault:  0.068019 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.224388 seconds
+Time taken with raw page fault:  0.067737 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.210008 seconds
+Time taken with raw page fault:  0.067000 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.204219 seconds
+Time taken with raw page fault:  0.065866 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.231172 seconds
+Time taken with raw page fault:  0.071200 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.222046 seconds
+Time taken with raw page fault:  0.068246 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.207637 seconds
+Time taken with raw page fault:  0.067452 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.214829 seconds
+Time taken with raw page fault:  0.067237 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.212849 seconds
+Time taken with raw page fault:  0.075009 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.230219 seconds
+Time taken with raw page fault:  0.071741 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.223161 seconds
+Time taken with raw page fault:  0.074454 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.226789 seconds
+Time taken with raw page fault:  0.069714 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.238038 seconds
+Time taken with raw page fault:  0.069658 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.225346 seconds
+Time taken with raw page fault:  0.069294 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.217709 seconds
+Time taken with raw page fault:  0.066290 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.207715 seconds
+Time taken with raw page fault:  0.065876 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.204798 seconds
+Time taken with raw page fault:  0.068317 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.218325 seconds
+Time taken with raw page fault:  0.067973 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.225724 seconds
+Time taken with raw page fault:  0.066773 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.230952 seconds
+Time taken with raw page fault:  0.066738 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.239406 seconds
+Time taken with raw page fault:  0.070407 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.213793 seconds
+Time taken with raw page fault:  0.067673 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.202512 seconds
+Time taken with raw page fault:  0.067604 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.216494 seconds
+Time taken with raw page fault:  0.065926 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.216129 seconds
+Time taken with raw page fault:  0.068688 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.200469 seconds
+Time taken with raw page fault:  0.067294 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.213414 seconds
+Time taken with raw page fault:  0.075028 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.240112 seconds
+Time taken with raw page fault:  0.070492 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.221099 seconds
+Time taken with raw page fault:  0.065993 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.204508 seconds
+Time taken with raw page fault:  0.080234 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.219739 seconds
+Time taken with raw page fault:  0.067352 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.222018 seconds
+Time taken with raw page fault:  0.069179 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.223482 seconds
+Time taken with raw page fault:  0.067981 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.235942 seconds
+Time taken with raw page fault:  0.073683 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.247371 seconds
+Time taken with raw page fault:  0.069087 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.219187 seconds
+Time taken with raw page fault:  0.068985 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.230688 seconds
+Time taken with raw page fault:  0.068683 seconds
+
+192 faulting threads with each triggering 50 page faults 
+Time taken with 192 faulting thread:  0.218141 seconds
+Time taken with raw page fault:  0.067575 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.298629 seconds
+Time taken with raw page fault:  0.088748 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.321320 seconds
+Time taken with raw page fault:  0.102083 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.341905 seconds
+Time taken with raw page fault:  0.086982 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.335986 seconds
+Time taken with raw page fault:  0.090036 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.332982 seconds
+Time taken with raw page fault:  0.085267 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.340077 seconds
+Time taken with raw page fault:  0.089469 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.353209 seconds
+Time taken with raw page fault:  0.087416 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.326790 seconds
+Time taken with raw page fault:  0.090246 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.312683 seconds
+Time taken with raw page fault:  0.086071 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.314296 seconds
+Time taken with raw page fault:  0.088036 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.327535 seconds
+Time taken with raw page fault:  0.089467 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.329374 seconds
+Time taken with raw page fault:  0.089219 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.326691 seconds
+Time taken with raw page fault:  0.097655 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.350431 seconds
+Time taken with raw page fault:  0.088176 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.335916 seconds
+Time taken with raw page fault:  0.091426 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.348936 seconds
+Time taken with raw page fault:  0.089258 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.324062 seconds
+Time taken with raw page fault:  0.091534 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.335969 seconds
+Time taken with raw page fault:  0.090582 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.352047 seconds
+Time taken with raw page fault:  0.091919 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.348021 seconds
+Time taken with raw page fault:  0.085885 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.348190 seconds
+Time taken with raw page fault:  0.089022 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.326586 seconds
+Time taken with raw page fault:  0.089025 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.322638 seconds
+Time taken with raw page fault:  0.085757 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.324182 seconds
+Time taken with raw page fault:  0.089090 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.317383 seconds
+Time taken with raw page fault:  0.086882 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.328363 seconds
+Time taken with raw page fault:  0.085045 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.305353 seconds
+Time taken with raw page fault:  0.089486 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.339737 seconds
+Time taken with raw page fault:  0.088491 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.306646 seconds
+Time taken with raw page fault:  0.087610 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.330941 seconds
+Time taken with raw page fault:  0.086596 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.357163 seconds
+Time taken with raw page fault:  0.087291 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.316108 seconds
+Time taken with raw page fault:  0.091377 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.310598 seconds
+Time taken with raw page fault:  0.088471 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.325438 seconds
+Time taken with raw page fault:  0.086762 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.322606 seconds
+Time taken with raw page fault:  0.096829 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.340154 seconds
+Time taken with raw page fault:  0.089704 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.320605 seconds
+Time taken with raw page fault:  0.089990 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.329308 seconds
+Time taken with raw page fault:  0.085676 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.334884 seconds
+Time taken with raw page fault:  0.088825 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.320110 seconds
+Time taken with raw page fault:  0.086233 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.332625 seconds
+Time taken with raw page fault:  0.086925 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.329301 seconds
+Time taken with raw page fault:  0.088201 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.296035 seconds
+Time taken with raw page fault:  0.085073 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.318235 seconds
+Time taken with raw page fault:  0.089074 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.342280 seconds
+Time taken with raw page fault:  0.092048 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.362422 seconds
+Time taken with raw page fault:  0.090218 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.327264 seconds
+Time taken with raw page fault:  0.088212 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.329277 seconds
+Time taken with raw page fault:  0.086876 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.341588 seconds
+Time taken with raw page fault:  0.091495 seconds
+
+256 faulting threads with each triggering 50 page faults 
+Time taken with 256 faulting thread:  0.329893 seconds
+Time taken with raw page fault:  0.086110 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.519096 seconds
+Time taken with raw page fault:  0.104463 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.508018 seconds
+Time taken with raw page fault:  0.102820 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.495164 seconds
+Time taken with raw page fault:  0.106845 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.485020 seconds
+Time taken with raw page fault:  0.117491 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.539366 seconds
+Time taken with raw page fault:  0.111184 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.559754 seconds
+Time taken with raw page fault:  0.108317 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.510518 seconds
+Time taken with raw page fault:  0.107253 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.529902 seconds
+Time taken with raw page fault:  0.119596 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.526293 seconds
+Time taken with raw page fault:  0.104811 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.540618 seconds
+Time taken with raw page fault:  0.106289 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.542492 seconds
+Time taken with raw page fault:  0.108443 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.495496 seconds
+Time taken with raw page fault:  0.122005 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.559141 seconds
+Time taken with raw page fault:  0.107656 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.505183 seconds
+Time taken with raw page fault:  0.121850 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.538560 seconds
+Time taken with raw page fault:  0.105573 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.533447 seconds
+Time taken with raw page fault:  0.105471 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.487420 seconds
+Time taken with raw page fault:  0.114106 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.582961 seconds
+Time taken with raw page fault:  0.108029 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.514913 seconds
+Time taken with raw page fault:  0.107821 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.531855 seconds
+Time taken with raw page fault:  0.107355 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.545842 seconds
+Time taken with raw page fault:  0.112720 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.520448 seconds
+Time taken with raw page fault:  0.105523 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.481297 seconds
+Time taken with raw page fault:  0.106366 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.532533 seconds
+Time taken with raw page fault:  0.106812 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.526653 seconds
+Time taken with raw page fault:  0.108818 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.525432 seconds
+Time taken with raw page fault:  0.111249 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.516396 seconds
+Time taken with raw page fault:  0.114805 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.553460 seconds
+Time taken with raw page fault:  0.107545 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.514644 seconds
+Time taken with raw page fault:  0.104694 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.557118 seconds
+Time taken with raw page fault:  0.112827 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.510985 seconds
+Time taken with raw page fault:  0.106934 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.530554 seconds
+Time taken with raw page fault:  0.108129 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.501090 seconds
+Time taken with raw page fault:  0.104853 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.527752 seconds
+Time taken with raw page fault:  0.106481 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.568224 seconds
+Time taken with raw page fault:  0.108638 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.544849 seconds
+Time taken with raw page fault:  0.105703 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.523737 seconds
+Time taken with raw page fault:  0.108252 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.565899 seconds
+Time taken with raw page fault:  0.106682 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.509131 seconds
+Time taken with raw page fault:  0.107255 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.500562 seconds
+Time taken with raw page fault:  0.106787 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.518970 seconds
+Time taken with raw page fault:  0.107458 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.558116 seconds
+Time taken with raw page fault:  0.112614 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.518777 seconds
+Time taken with raw page fault:  0.119515 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.541956 seconds
+Time taken with raw page fault:  0.121158 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.566939 seconds
+Time taken with raw page fault:  0.108698 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.566982 seconds
+Time taken with raw page fault:  0.110128 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.536487 seconds
+Time taken with raw page fault:  0.106294 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.553163 seconds
+Time taken with raw page fault:  0.107994 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.521127 seconds
+Time taken with raw page fault:  0.105776 seconds
+
+320 faulting threads with each triggering 50 page faults 
+Time taken with 320 faulting thread:  0.503210 seconds
+Time taken with raw page fault:  0.112106 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.907777 seconds
+Time taken with raw page fault:  0.127385 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.876569 seconds
+Time taken with raw page fault:  0.126870 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.874210 seconds
+Time taken with raw page fault:  0.126881 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.856802 seconds
+Time taken with raw page fault:  0.133720 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.844793 seconds
+Time taken with raw page fault:  0.126866 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.843968 seconds
+Time taken with raw page fault:  0.120830 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.889804 seconds
+Time taken with raw page fault:  0.130490 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.844707 seconds
+Time taken with raw page fault:  0.123270 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.804865 seconds
+Time taken with raw page fault:  0.129962 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.846888 seconds
+Time taken with raw page fault:  0.123959 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.825057 seconds
+Time taken with raw page fault:  0.124221 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.838582 seconds
+Time taken with raw page fault:  0.124355 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.908668 seconds
+Time taken with raw page fault:  0.134097 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.879675 seconds
+Time taken with raw page fault:  0.127108 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.798324 seconds
+Time taken with raw page fault:  0.124212 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.874097 seconds
+Time taken with raw page fault:  0.128939 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.861417 seconds
+Time taken with raw page fault:  0.131710 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.846911 seconds
+Time taken with raw page fault:  0.126976 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.830348 seconds
+Time taken with raw page fault:  0.133660 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.810131 seconds
+Time taken with raw page fault:  0.126646 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.858645 seconds
+Time taken with raw page fault:  0.126602 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.821834 seconds
+Time taken with raw page fault:  0.131685 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.846923 seconds
+Time taken with raw page fault:  0.127972 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.862044 seconds
+Time taken with raw page fault:  0.133599 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.872875 seconds
+Time taken with raw page fault:  0.134983 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.887319 seconds
+Time taken with raw page fault:  0.135527 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.827107 seconds
+Time taken with raw page fault:  0.135246 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.841324 seconds
+Time taken with raw page fault:  0.124480 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.877260 seconds
+Time taken with raw page fault:  0.132514 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.884724 seconds
+Time taken with raw page fault:  0.126567 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.815192 seconds
+Time taken with raw page fault:  0.128635 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.875473 seconds
+Time taken with raw page fault:  0.125865 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.876030 seconds
+Time taken with raw page fault:  0.129426 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.879828 seconds
+Time taken with raw page fault:  0.134550 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.827349 seconds
+Time taken with raw page fault:  0.129723 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.831756 seconds
+Time taken with raw page fault:  0.137797 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.836951 seconds
+Time taken with raw page fault:  0.135982 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.839824 seconds
+Time taken with raw page fault:  0.129943 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.815767 seconds
+Time taken with raw page fault:  0.133472 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.846297 seconds
+Time taken with raw page fault:  0.146174 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.821469 seconds
+Time taken with raw page fault:  0.130787 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.883833 seconds
+Time taken with raw page fault:  0.127921 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.845569 seconds
+Time taken with raw page fault:  0.137763 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.878194 seconds
+Time taken with raw page fault:  0.128056 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.811975 seconds
+Time taken with raw page fault:  0.126358 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.831219 seconds
+Time taken with raw page fault:  0.126390 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.852351 seconds
+Time taken with raw page fault:  0.131860 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.877974 seconds
+Time taken with raw page fault:  0.126462 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.869175 seconds
+Time taken with raw page fault:  0.125131 seconds
+
+384 faulting threads with each triggering 50 page faults 
+Time taken with 384 faulting thread:  0.865385 seconds
+Time taken with raw page fault:  0.122447 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.271092 seconds
+Time taken with raw page fault:  0.164532 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.362550 seconds
+Time taken with raw page fault:  0.168841 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.243624 seconds
+Time taken with raw page fault:  0.159761 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.270511 seconds
+Time taken with raw page fault:  0.144347 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.261316 seconds
+Time taken with raw page fault:  0.146282 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.254395 seconds
+Time taken with raw page fault:  0.159876 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.234525 seconds
+Time taken with raw page fault:  0.170566 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.270407 seconds
+Time taken with raw page fault:  0.146690 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.293697 seconds
+Time taken with raw page fault:  0.148580 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.230413 seconds
+Time taken with raw page fault:  0.167368 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.276939 seconds
+Time taken with raw page fault:  0.155978 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.237137 seconds
+Time taken with raw page fault:  0.144618 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.304591 seconds
+Time taken with raw page fault:  0.158079 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.313952 seconds
+Time taken with raw page fault:  0.151887 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.249021 seconds
+Time taken with raw page fault:  0.144404 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.263007 seconds
+Time taken with raw page fault:  0.149776 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.226813 seconds
+Time taken with raw page fault:  0.151470 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.338302 seconds
+Time taken with raw page fault:  0.153401 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.229819 seconds
+Time taken with raw page fault:  0.144122 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.297962 seconds
+Time taken with raw page fault:  0.145005 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.226518 seconds
+Time taken with raw page fault:  0.145794 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.205226 seconds
+Time taken with raw page fault:  0.142329 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.321026 seconds
+Time taken with raw page fault:  0.135176 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.304868 seconds
+Time taken with raw page fault:  0.151813 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.271973 seconds
+Time taken with raw page fault:  0.147041 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.321360 seconds
+Time taken with raw page fault:  0.157518 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.259855 seconds
+Time taken with raw page fault:  0.152585 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.334001 seconds
+Time taken with raw page fault:  0.146563 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.285070 seconds
+Time taken with raw page fault:  0.152385 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.279266 seconds
+Time taken with raw page fault:  0.156112 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.241807 seconds
+Time taken with raw page fault:  0.147054 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.270039 seconds
+Time taken with raw page fault:  0.145896 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.277736 seconds
+Time taken with raw page fault:  0.153495 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.201789 seconds
+Time taken with raw page fault:  0.150848 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.345771 seconds
+Time taken with raw page fault:  0.144215 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.270640 seconds
+Time taken with raw page fault:  0.145294 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.244478 seconds
+Time taken with raw page fault:  0.153470 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.258886 seconds
+Time taken with raw page fault:  0.150222 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.303058 seconds
+Time taken with raw page fault:  0.153012 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.274310 seconds
+Time taken with raw page fault:  0.143576 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.272040 seconds
+Time taken with raw page fault:  0.153512 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.230358 seconds
+Time taken with raw page fault:  0.147173 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.279739 seconds
+Time taken with raw page fault:  0.146384 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.278258 seconds
+Time taken with raw page fault:  0.147063 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.250660 seconds
+Time taken with raw page fault:  0.142047 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.237602 seconds
+Time taken with raw page fault:  0.155658 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.289880 seconds
+Time taken with raw page fault:  0.146038 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.317676 seconds
+Time taken with raw page fault:  0.154912 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.294332 seconds
+Time taken with raw page fault:  0.157094 seconds
+
+448 faulting threads with each triggering 50 page faults 
+Time taken with 448 faulting thread:  1.308731 seconds
+Time taken with raw page fault:  0.143851 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.666918 seconds
+Time taken with raw page fault:  0.194420 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.669352 seconds
+Time taken with raw page fault:  0.163244 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.796416 seconds
+Time taken with raw page fault:  0.174465 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.744810 seconds
+Time taken with raw page fault:  0.166420 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.687661 seconds
+Time taken with raw page fault:  0.164832 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.677677 seconds
+Time taken with raw page fault:  0.163517 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.773449 seconds
+Time taken with raw page fault:  0.177482 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.823503 seconds
+Time taken with raw page fault:  0.173918 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.668401 seconds
+Time taken with raw page fault:  0.164424 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.653562 seconds
+Time taken with raw page fault:  0.179213 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.675311 seconds
+Time taken with raw page fault:  0.170797 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.716082 seconds
+Time taken with raw page fault:  0.171385 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.736767 seconds
+Time taken with raw page fault:  0.176729 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.695586 seconds
+Time taken with raw page fault:  0.162550 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.692925 seconds
+Time taken with raw page fault:  0.166464 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.772918 seconds
+Time taken with raw page fault:  0.176444 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.673075 seconds
+Time taken with raw page fault:  0.168990 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.721045 seconds
+Time taken with raw page fault:  0.165622 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.775844 seconds
+Time taken with raw page fault:  0.172325 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.800160 seconds
+Time taken with raw page fault:  0.169270 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.781115 seconds
+Time taken with raw page fault:  0.175900 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.757209 seconds
+Time taken with raw page fault:  0.168163 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.743196 seconds
+Time taken with raw page fault:  0.167036 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.799999 seconds
+Time taken with raw page fault:  0.162547 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.740678 seconds
+Time taken with raw page fault:  0.164204 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.724464 seconds
+Time taken with raw page fault:  0.165573 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.772980 seconds
+Time taken with raw page fault:  0.166989 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.750819 seconds
+Time taken with raw page fault:  0.170680 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.748691 seconds
+Time taken with raw page fault:  0.175258 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.711307 seconds
+Time taken with raw page fault:  0.168400 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.828907 seconds
+Time taken with raw page fault:  0.180904 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.688711 seconds
+Time taken with raw page fault:  0.164953 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.679754 seconds
+Time taken with raw page fault:  0.163395 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.720158 seconds
+Time taken with raw page fault:  0.163347 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.693225 seconds
+Time taken with raw page fault:  0.170556 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.706365 seconds
+Time taken with raw page fault:  0.164263 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.708551 seconds
+Time taken with raw page fault:  0.164324 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.774020 seconds
+Time taken with raw page fault:  0.174549 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.721143 seconds
+Time taken with raw page fault:  0.166478 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.601043 seconds
+Time taken with raw page fault:  0.178719 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.826076 seconds
+Time taken with raw page fault:  0.169523 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.759547 seconds
+Time taken with raw page fault:  0.165427 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.644998 seconds
+Time taken with raw page fault:  0.165700 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.663430 seconds
+Time taken with raw page fault:  0.175299 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.812026 seconds
+Time taken with raw page fault:  0.175483 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.753399 seconds
+Time taken with raw page fault:  0.164165 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.718545 seconds
+Time taken with raw page fault:  0.164418 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.688886 seconds
+Time taken with raw page fault:  0.163353 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.749058 seconds
+Time taken with raw page fault:  0.188410 seconds
+
+512 faulting threads with each triggering 50 page faults 
+Time taken with 512 faulting thread:  1.684307 seconds
+Time taken with raw page fault:  0.162095 seconds
+
