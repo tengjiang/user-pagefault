@@ -38,9 +38,28 @@ faulting_thread(void *arg)
     l = 0xf;
     while (l < ft_args->len) {
         char c = ft_args->start_addr[l];
-        // printf("Read address %p in fault handling thread: ", ft_args->start_addr + l);
-        // printf("%c\n", c);
+        printf("Read address %p in fault handling thread: ", ft_args->start_addr + l);
+        printf("%c\n", c);
         l += page_size;
+    }
+    pthread_exit(NULL);
+}
+
+static void *
+faulting_thread_raw(void *arg)
+{
+    unsigned long int l;
+    int fault_cnt = 0; // bookkeeping for raw pagefault
+    faulting_thread_args *ft_args = (faulting_thread_args *)arg;
+    // printf("Start addr: %p \n", ft_args->start_addr);
+    l = 0xf;
+    while (l < ft_args->len) {
+        memset(ft_args->start_addr + fault_cnt * page_size, 'A' + fault_cnt % 20, page_size);
+        char c = ft_args->start_addr[l];
+        printf("Read address %p in fault handling thread: ", ft_args->start_addr + l);
+        printf("%c\n", c);
+        l += page_size;
+        fault_cnt += 1;
     }
     pthread_exit(NULL);
 }
@@ -139,7 +158,6 @@ int main(int argc, char *argv[])
     int s; // for pthread_create
     char *raw_pg_addr; // Without using using userfaultfd
     double cpu_time_used;
-    int fault_cnt; // bookkeeping for raw pagefault
     unsigned long num_faulting_threads; // # of threads to trigger page fault.
     unsigned long num_pages; // # of pages for each thread.
     faulting_thread_args *all_ft_args;
@@ -235,11 +253,12 @@ int main(int argc, char *argv[])
     for (unsigned long idx = 0; idx < num_faulting_threads; idx++) {
         (all_ft_args + idx)->len = per_thread_len;
         (all_ft_args + idx)->start_addr = addr + per_thread_len * idx;
-        // printf("The args: idx: %lu, start addr %p, len %lu\n", idx, (all_ft_args + idx)->start_addr, (all_ft_args + idx)->len);
+        printf("The args: idx: %lu, start addr %p, len %lu\n", idx, (all_ft_args + idx)->start_addr, (all_ft_args + idx)->len);
         s = pthread_create(faulting_thrs + idx, NULL, faulting_thread, all_ft_args + idx);
         if (s != 0) {
             errno = s;
             free(faulting_thrs);
+            free(all_ft_args);
             errExit("pthread_create for faulting thread");
         }
     }
@@ -249,6 +268,7 @@ int main(int argc, char *argv[])
         if (s != 0) {
             errno = s;
             free(faulting_thrs);
+            free(all_ft_args);
             errExit("pthread_join for faulting thread");
         }
     }
@@ -257,27 +277,38 @@ int main(int argc, char *argv[])
     cpu_time_used = ((double) (end - start)) / CLOCKS_PER_SEC;
     printf("Time taken with %lu faulting thread:  %f seconds\n", num_faulting_threads, cpu_time_used);
 
-
+    // Default page faulting
     
-    fault_cnt = 0;
-    // memset(des_page, 0, page_size);
-
-    unsigned long int l;
-    l = 0xf;
     start = clock();
-    while (l < len) {
-        memset(raw_pg_addr + fault_cnt * page_size, 'A' + fault_cnt % 20, page_size);
-        // printf("%p\n", raw_pg_addr + fault_cnt * page_size);
-        fault_cnt++;
-        char c = raw_pg_addr[l];
-        // printf("Read address %p in main(): ", raw_pg_addr + l);
-        // printf("%c\n", c);
-        l += page_size;
+
+    for (unsigned long idx = 0; idx < num_faulting_threads; idx++) {
+        (all_ft_args + idx)->len = per_thread_len;
+        (all_ft_args + idx)->start_addr = raw_pg_addr + per_thread_len * idx;
+        printf("The args: idx: %lu, start addr %p, len %lu\n", idx, (all_ft_args + idx)->start_addr, (all_ft_args + idx)->len);
+        s = pthread_create(faulting_thrs + idx, NULL, faulting_thread_raw, all_ft_args + idx);
+        if (s != 0) {
+            errno = s;
+            free(faulting_thrs);
+            free(all_ft_args);
+            errExit("pthread_create for faulting thread");
+        }
     }
+
+    for (unsigned long idx = 0; idx < num_faulting_threads; idx++) {
+        s = pthread_join(*(faulting_thrs + idx), NULL);
+        if (s != 0) {
+            errno = s;
+            free(faulting_thrs);
+            free(all_ft_args);
+            errExit("pthread_join for faulting thread");
+        }
+    }
+
     end = clock();
     cpu_time_used = ((double) (end - start)) / CLOCKS_PER_SEC;
     printf("Time taken with raw page fault:  %f seconds\n", cpu_time_used);
 
     free(faulting_thrs);
+    free(all_ft_args);
     exit(EXIT_SUCCESS);
 }
