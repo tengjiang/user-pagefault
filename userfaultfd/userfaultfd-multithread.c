@@ -38,8 +38,8 @@ faulting_thread(void *arg)
     l = 0xf;
     while (l < ft_args->len) {
         char c = ft_args->start_addr[l];
-        printf("Read address %p in fault handling thread: ", ft_args->start_addr + l);
-        printf("%c\n", c);
+        // printf("Read address %p in fault handling thread: ", ft_args->start_addr + l);
+        // printf("%c\n", c);
         l += page_size;
     }
     pthread_exit(NULL);
@@ -56,8 +56,8 @@ faulting_thread_raw(void *arg)
     while (l < ft_args->len) {
         memset(ft_args->start_addr + fault_cnt * page_size, 'A' + fault_cnt % 20, page_size);
         char c = ft_args->start_addr[l];
-        printf("Read address %p in fault handling thread: ", ft_args->start_addr + l);
-        printf("%c\n", c);
+        // printf("Read address %p in fault handling thread: ", ft_args->start_addr + l);
+        // printf("%c\n", c);
         l += page_size;
         fault_cnt += 1;
     }
@@ -253,7 +253,7 @@ int main(int argc, char *argv[])
     for (unsigned long idx = 0; idx < num_faulting_threads; idx++) {
         (all_ft_args + idx)->len = per_thread_len;
         (all_ft_args + idx)->start_addr = addr + per_thread_len * idx;
-        printf("The args: idx: %lu, start addr %p, len %lu\n", idx, (all_ft_args + idx)->start_addr, (all_ft_args + idx)->len);
+        // printf("The args: idx: %lu, start addr %p, len %lu\n", idx, (all_ft_args + idx)->start_addr, (all_ft_args + idx)->len);
         s = pthread_create(faulting_thrs + idx, NULL, faulting_thread, all_ft_args + idx);
         if (s != 0) {
             errno = s;
@@ -284,7 +284,7 @@ int main(int argc, char *argv[])
     for (unsigned long idx = 0; idx < num_faulting_threads; idx++) {
         (all_ft_args + idx)->len = per_thread_len;
         (all_ft_args + idx)->start_addr = raw_pg_addr + per_thread_len * idx;
-        printf("The args: idx: %lu, start addr %p, len %lu\n", idx, (all_ft_args + idx)->start_addr, (all_ft_args + idx)->len);
+        // printf("The args: idx: %lu, start addr %p, len %lu\n", idx, (all_ft_args + idx)->start_addr, (all_ft_args + idx)->len);
         s = pthread_create(faulting_thrs + idx, NULL, faulting_thread_raw, all_ft_args + idx);
         if (s != 0) {
             errno = s;
