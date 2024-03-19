@@ -12,8 +12,8 @@ def run_experiment(num_threads):
     return output
 
 # Constants
-thread_nums = [1, 2, 4, 8, 16, 32, 64, 128]
-N = 20  # Number of times to run each command
+thread_nums = [1, 2, 4, 8, 16, 32, 64, 128, 256]
+N = 50  # Number of times to run each command
 
 # Create results directory if it doesn't exist
 timestamp = datetime.datetime.now().strftime('%Y-%m-%d_%H-%M-%S')
